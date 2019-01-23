@@ -12,10 +12,19 @@ namespace HelloWorld
 {
     public partial class Form1 : Form
     {
-        string 1myname;
+        string myname;
         public Form1()
         {
             InitializeComponent();
         }
+    }
+
+    public class BUILDTASk
+    {
+        public void test()
+        {
+
+        }
+
     }
 }
