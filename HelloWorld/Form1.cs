@@ -12,6 +12,7 @@ namespace HelloWorld
 {
     public partial class Form1 : Form
     {
+        string myname;
         public Form1()
         {
             InitializeComponent();
